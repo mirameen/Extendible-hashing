@@ -17,7 +17,7 @@
   
 A Gui window will open
 
-## Screenshots of tthe simulator :-
+## Screenshots of the simulator :-
 
 
 <img src="images/exh-1.PNG">
